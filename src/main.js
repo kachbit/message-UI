@@ -114,7 +114,7 @@ class message {
             transform: scale(${this.size}) translate(-50%, -50%);
             z-index: 99999;
             background: #121415e0;
-            backdrop-filter:blur(10px);
+            backdrop-filter:blur(19px);
             color: #999999;
             border-radius: 20px;
             border-color: ${this.accent};
